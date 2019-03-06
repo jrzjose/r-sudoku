@@ -1,7 +1,6 @@
 ##########################################################################
-## Trying to learn R I found this algorithm at http://norvig.com         #
-## and thought it would be a nice learning experience porting it to R    #
-## TODO: add comments                                                    #
+## Port from algorithm at http://norvig.com                              #
+## thought it would be a nice learning experience porting it to R        #
 ##########################################################################
 
 library(testit)
